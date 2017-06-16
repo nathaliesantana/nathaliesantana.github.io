@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Baby steps."
-date:   2017-06-16 23:00:34 +0000
+date:   2017-06-16 19:00:35 -0400
 ---
 
 
