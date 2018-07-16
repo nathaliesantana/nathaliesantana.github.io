@@ -1,14 +1,24 @@
 ---
 layout: post
-title:  "Baby steps."
-date:   2017-06-16 19:00:35 -0400
+title:      "Baby steps."
+date:       2017-06-16 19:00:35 -0400
+permalink:  baby_steps
 ---
 
 
-My curiosity for coding came a long time ago. When I just finished College so I started learning a bit about HTML and CSS. Then life happens and I just did not keep going with something that I felt really connected to.
+My curiosity for coding born years ago. When I finished College I started learning about HTML and CSS, it was just a basic course but I fell in love with it. Then life happened and I didn't keep going with something that I felt really connected to, instead, I focus only on my career.
 
-For me coding means solutions. Every problem have multiples ways to resolve them, there is always a way around it. Not every solution is the same and everyone can aport to the solution to find a better one. 
+Coding for me means solutions. Every problem has multiples ways to solve it, there's always a way around it. Not every solution is the same, and everyone can aport to the solution, which is how the real world should work, a community of people working towards the same goal, finding the best solution.
 
-Im not too much of a writter (blog writter), but I am really interested in what I am learning now and I really want to do this now and in the future. I love to learn (in general, not just how to code) and I love how to solve this problems feel. I am not going to lie, it can get frustrating sometimes, the road to find the problem, but in the same path is so much what you learn and the results are definitly worth it.
+Since I started learning here I've been loving it, most of the time. I'm not going to lie, sometimes I get frustrated when I can't find the solution to a problem. I need to remember myself that I am learning, that I'm home alone, but I have a  big online community that's always willing to help when I cry for help. On the other hand, when I find the solution, **OMG!** it's SO satisfying, it's the best feeling in the world, you need to feel to know it. I think that is one of the reasons why I  keep going.
 
-Lets see how this road goes.
+It's been difficult this last year, and I haven't made as much progress as I wanted too, but I am confident that it will be better from now on.
+
+I'm not too much of a writer (blog writer), but I am really interested in what I am learning. So let's see how this road goes. I will keep you posted.
+
+
+-N-
+
+
+
+
