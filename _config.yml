@@ -1,15 +1,14 @@
 # Site settings
+author: nathalie
 title: you and I code
 header-img: img/home-bg.png
 email: nathalie.scruz@gmail.com
-copyright_name: nathaliesantana
+copyright_name: nathalie
 description: > # this means to ignore newlines until "baseurl:"
   once upon a code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  nathaliesantana
-learn_profile: nathaliesantana
-email_username: nathalie.scruz@gmail.com
 
 # Build settings
 markdown: kramdown
